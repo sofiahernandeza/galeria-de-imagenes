@@ -11,9 +11,15 @@ body {
 .link-button {
     text-decoration: none;
     color: black;
-    border: 1px solid gray;
     background-color: #f2f2f2;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    transition: .3s;
+    width: 200px;
+    height: 100px;
+}
+.link-button:hover {
+    color: white;
+    background-color: rgb(70, 156, 70);
 }
