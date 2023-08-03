@@ -16,7 +16,7 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
     transition: .3s;
-    width: 200px;
+    width: 100px;
     height: 100px;
 }
 .link-button:hover {
