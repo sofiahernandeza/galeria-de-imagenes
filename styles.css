@@ -2,6 +2,9 @@ body {
     background-color: rgb(255, 255, 165);
 }
 
+h2 {
+    font-style: oblique;
+}
 .image{
     border: 5px solid white;
     border-radius: 10px;
