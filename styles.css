@@ -1,5 +1,6 @@
 body {
     background-color: rgb(255, 255, 165);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 
@@ -12,16 +13,21 @@ body {
 .link-button {
     text-decoration: none;
     color: black;
-    border: 1px solid gray;
     background-color: #f2f2f2;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    transition: .3s;
+    width: 200px;
+    height: 100px;
 }
-
-
-
+.link-button:hover {
+    color: white;
+    background-color: rgb(70, 156, 70);
+}
 
 h2 {
-    font-style: oblique;
+    background-color: blue;
+   font-style: oblique;
 }
+
