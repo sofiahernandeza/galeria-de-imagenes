@@ -3,6 +3,7 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+
 .image{
     border: 5px solid white;
     border-radius: 10px;
@@ -27,5 +28,6 @@ body {
 
 h2 {
     background-color: blue;
+   font-style: oblique;
 }
 
