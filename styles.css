@@ -1,23 +1,16 @@
 body {
-    background-color: rgb(164, 218, 250);
+
+    background-color: rgb(255, 255, 165);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-span {
-    color: rgb(230, 11, 11);
-    position: relative;
-    font-size: 2px;
-}
-a {
-    width: 200px;
-    height: 50px;
-}
+
+
 .image{
     border: 5px solid white;
     border-radius: 10px;
     height: 400px;
 }
-.material-symbols-outlined {
-    font-size: 15px;
-}
+
 .link-button {
     text-decoration: none;
     color: black;
@@ -33,3 +26,9 @@ a {
     color: white;
     background-color: rgb(70, 156, 70);
 }
+
+h2 {
+    background-color: blue;
+   font-style: oblique;
+}
+
